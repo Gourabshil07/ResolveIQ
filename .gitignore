@@ -1,8 +1,22 @@
+
+# Dependencies
 node_modules/
+
+# Build files
 build/
 dist/
+
+# Test coverage
 coverage/
-.DS_Store
-*.log
-.env*
+
+# Environment variables and secrets
+.env
+.env.*
 !.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
