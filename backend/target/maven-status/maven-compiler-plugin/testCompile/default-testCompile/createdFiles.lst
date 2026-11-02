@@ -1,0 +1,5 @@
+com/resolveiq/service/AuthServiceTest.class
+com/resolveiq/service/IncidentServiceTest.class
+com/resolveiq/controller/IncidentControllerTest.class
+com/resolveiq/controller/AuthControllerTest.class
+com/resolveiq/controller/DashboardControllerTest.class

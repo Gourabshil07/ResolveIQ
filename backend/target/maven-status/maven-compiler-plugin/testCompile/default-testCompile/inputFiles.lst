@@ -1,0 +1,5 @@
+/app/applet/backend/src/test/java/com/resolveiq/controller/AuthControllerTest.java
+/app/applet/backend/src/test/java/com/resolveiq/controller/DashboardControllerTest.java
+/app/applet/backend/src/test/java/com/resolveiq/controller/IncidentControllerTest.java
+/app/applet/backend/src/test/java/com/resolveiq/service/AuthServiceTest.java
+/app/applet/backend/src/test/java/com/resolveiq/service/IncidentServiceTest.java

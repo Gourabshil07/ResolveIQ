@@ -1,0 +1,6 @@
+{
+  "name": "ResolveIQ",
+  "description": "Enterprise IT Incident Management and Operations Platform with Supabase PostgreSQL, Groq AI troubleshooting, and role-based workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
